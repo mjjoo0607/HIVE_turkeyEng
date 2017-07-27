@@ -78,20 +78,22 @@ window.partners = {
      {
       "avatar": "avatars/others/george.png",
       "username": "Chris",
-      "major": "Major in political science",
-      "interest1": "Compassionate",
-      "interest2": "Laid-back",
-      "interest3": "I like hiking and camping",
-      "interest4": "Patient"
-    },
-    {
-      "avatar": "avatars/avatar_21.png",
-      "username": "Sam",
-      "major": "I major in Anthropology",
+	"major": "I major in Anthropology",
       "interest1": "Helpful",
       "interest2": "Polite",
       "interest3": "Organized",
       "interest4": "Confident"
+      
+    },
+    {
+      "avatar": "avatars/avatar_21.png",
+      "username": "Sam",
+	"major": "Major in political science",
+      "interest1": "Compassionate",
+      "interest2": "Laid-back",
+      "interest3": "I like hiking and camping",
+      "interest4": "Patient"
+    
     },
 
   ],
@@ -109,20 +111,22 @@ window.partners = {
     {
       "avatar": "avatars/others/jane.png",
       "username": "Chris",
-    "major": "Major in political science",
-      "interest1": "Compassionate",
-      "interest2": "Laid-back",
-      "interest3": "I like hiking and camping",
-      "interest4": "Patient"
-    },
-    {
-      "avatar": "avatars/others/anca.png",
-      "username": "Sam",
 	"major": "I major in Anthropology",
       "interest1": "Helpful",
       "interest2": "Polite",
       "interest3": "Organized",
       "interest4": "Confident"
+    
+    },
+    {
+      "avatar": "avatars/others/anca.png",
+      "username": "Sam",
+	"major": "Major in political science",
+      "interest1": "Compassionate",
+      "interest2": "Laid-back",
+      "interest3": "I like hiking and camping",
+      "interest4": "Patient"
+	
     },
 
   ]
