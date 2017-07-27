@@ -78,7 +78,7 @@ window.partners = {
      {
       "avatar": "avatars/others/george.png",
       "username": "Chris",
-      "major": "Major in communications",
+      "major": "Major in political science",
       "interest1": "Compassionate",
       "interest2": "Laid-back",
       "interest3": "I like hiking and camping",
@@ -87,7 +87,7 @@ window.partners = {
     {
       "avatar": "avatars/avatar_21.png",
       "username": "Sam",
-      "major": "I major in Sociology",
+      "major": "I major in Anthropology",
       "interest1": "Helpful",
       "interest2": "Polite",
       "interest3": "Organized",
@@ -109,7 +109,7 @@ window.partners = {
     {
       "avatar": "avatars/others/jane.png",
       "username": "Chris",
-      "major": "I major in Sociology",
+      "major": "I major in Anthropology",
       "interest1": "Helpful",
       "interest2": "Polite",
       "interest3": "Organized",
@@ -118,7 +118,7 @@ window.partners = {
     {
       "avatar": "avatars/others/anca.png",
       "username": "Sam",
-      "major": "Major in communications",
+      "major": "Major in political science",
       "interest1": "Compassionate",
       "interest2": "Laid-back",
       "interest3": "I like hiking and camping",
