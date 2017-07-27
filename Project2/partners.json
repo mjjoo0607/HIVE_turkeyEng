@@ -12,7 +12,7 @@ window.partners = {
     {
       "avatar": "avatars/partners/sarah.png",
       "username": "Chris",
-      "major": "I major in Sociology",
+      "major": "I major in anthropology",
       "interest1": "Helpful",
       "interest2": "Polite",
       "interest3": "Organized",
@@ -21,7 +21,7 @@ window.partners = {
     {
       "avatar": "avatars/partners/niki.png",
       "username": "KY",
-      "major": "Major in communications",
+      "major": "Major in political science",
       "interest1": "Compassionate",
       "interest2": "Laid-back",
       "interest3": "I like hiking and camping",
