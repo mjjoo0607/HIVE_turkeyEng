@@ -474,7 +474,7 @@ function cont_fb_intro() {
 
       //Apurva
       //When user receives comments
-	    var arr = ["Pat says: I enjoyed reading your description " , "Pat says: I didn’t like what you wrote there, I think you should have put more effort in it", "Pat says: Yeah, right. It looks like you are making this up."],
+	    var arr = ["Pat says: I enjoyed reading your description " , "Pat says: Your grammar is off, I would seriously consider revising", "Pat says: Yeah, right. It looks like you are making this up."],
                 rand = Math.floor(Math.random() * arr.length),
 	        func = arr[rand];
 	  	window.func=func;
