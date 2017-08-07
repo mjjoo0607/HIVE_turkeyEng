@@ -24,7 +24,7 @@ $(function() {
 	// To the redirect link, the following information will be appended: (1) participant number, (2) condition, (3) username, (4) description submitted by participant. These variables can be extracted from the link, saved as data, and used for linking the Social Media Ostracism paradigm to subsequent tasks and measures. See documentation for more details.
 
 //     settings.defaultredirect = 'https://iastate.qualtrics.com/SE/?SID=SV_78y5vvwkxJZrLtH';
-	 // settings.defaultredirect = 'https://iastate.qualtrics.com/SE/?SID=SV_0rFAtUZh2zg7oA5';
+	 // settings.defaultredirect = 'https://iastate.qualtrics.com/jfe/form/SV_29mHjQrYk2zRFf7';
 	    settings.defaultredirect = 'https://iastate.qualtrics.com/jfe/form/SV_29mHjQrYk2zRFf7';
 	
 	// **Tasklength**     
