@@ -65,7 +65,7 @@ $(function() {
 	// If group member names are changed, these should be changed accordingly.
 	//settings.likes_by = ['John', 'AncaD', 'Sarah', 'Arjen', 'Jane', 'George', 'Dan', 'Heather', 'Ky'];
       //Apurva
-	settings.likes_by = ['Chris', 'Pat', 'Sam', 'KY'];
+	settings.likes_by = ['Chris','Sam', 'KY'];
 	settings.comments_by = ['Chris', 'Pat', 'Sam', 'KY'];
       //Apurva
   }
