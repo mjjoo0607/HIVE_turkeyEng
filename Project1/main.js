@@ -24,8 +24,8 @@ $(function() {
 	// To the redirect link, the following information will be appended: (1) participant number, (2) condition, (3) username, (4) description submitted by participant. These variables can be extracted from the link, saved as data, and used for linking the Social Media Ostracism paradigm to subsequent tasks and measures. See documentation for more details.
 
 //     settings.defaultredirect = 'https://iastate.qualtrics.com/SE/?SID=SV_78y5vvwkxJZrLtH';
-	 // settings.defaultredirect = 'https://iastate.qualtrics.com/jfe/form/SV_29mHjQrYk2zRFf7';
-	    settings.defaultredirect = 'https://iastate.qualtrics.com/jfe/form/SV_29mHjQrYk2zRFf7';
+	 // settings.defaultredirect = 'https://iastate.qualtrics.com/jfe/form/SV_23rMyewunI0cuhv';
+	    settings.defaultredirect = 'https://iastate.qualtrics.com/jfe/form/SV_23rMyewunI0cuhv';
 	
 	// **Tasklength**     
     // Length of the group introduction task in milliseconds. Can be changed to any number (in ms). Default: 180000 (3min) 
